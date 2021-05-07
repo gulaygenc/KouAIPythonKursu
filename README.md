@@ -1,1 +1,1 @@
-# Python
+# KOU AI PYTHON KURSU
