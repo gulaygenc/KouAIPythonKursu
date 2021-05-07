@@ -1,1 +1,1 @@
-# KOU AI PYTHON KURSU
+# Kou AI Python Kursu
